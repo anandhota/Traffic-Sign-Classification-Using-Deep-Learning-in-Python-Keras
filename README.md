@@ -1,1 +1,2 @@
 # Traffic-Sign-Classification-Using-Deep-Learning-in-Python-Keras
+In this project, Firstly i have performed image normalization and convert from color-scaled to gray-scaled images, then I have build Convolutional Neural Network using Keras with Tensorflow 2.0 as a backend. Assess the performance of trained CNN and ensure its generalization using various KPIs. Lastly, i have improved network performance using regularization techniques such as dropout
